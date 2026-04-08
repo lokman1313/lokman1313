@@ -35,7 +35,7 @@
 ---
 
 ### 🔥 Languages & Frameworks & Tools 🔥
-
+--
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,express,mongodb,git,vscode,postman,github,npm" />
 </div>
