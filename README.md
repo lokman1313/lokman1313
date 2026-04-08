@@ -21,8 +21,6 @@
 
 ---
 
----
-
 <img align="right" width="320" src="https://github.com/user-attachments/assets/b275c323-d3e6-4075-bd3c-fbf96696dd51" />
 
 
@@ -38,8 +36,6 @@
 - 🍕 I enjoy community meetups, tech events, and hackathons.
 
 <br clear="right" />
-
----
 
 ---
 
