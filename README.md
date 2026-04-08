@@ -8,11 +8,6 @@
 
 <div align="center">
 
-# Hi there, I'm Lokman Hossen 👋
-  
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;React+Enthusiast;Building+Modern+Web+Apps" alt="Typing SVG" />
-</a>
 
 ---
 
