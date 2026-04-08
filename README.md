@@ -1,12 +1,6 @@
 
  <img width="1703" height="624" alt="Gemini_Generated_Image_2zrpir2zrpir2zrp" src="https://github.com/user-attachments/assets/0f68e6de-6227-482d-a54e-20ad55fa4b12" />
-# Hello, I'm Lokman Hossen 👋
 
-# Welcome To My Profile 👋
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hello%2C+There+!;I'm+Lokman+Hossen....;Nice+to+Meet+You+😊" alt="Typing SVG" />
-</a>
 
 ## 🛠️ Tech Stack
 
