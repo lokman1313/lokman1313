@@ -23,8 +23,8 @@
 
 ---
 
-<img align="right" width="350" src="আপনার_GIF_লিঙ্ক_এখানে" />
-![10_coding_dribbble](https://github.com/user-attachments/assets/b275c323-d3e6-4075-bd3c-fbf96696dd51)
+<img align="right" width="350" src="![10_coding_dribbble](https://github.com/user-attachments/assets/b275c323-d3e6-4075-bd3c-fbf96696dd51)" />
+
 
 ### 👨‍💻 Talking about Personal Stuff:
 
