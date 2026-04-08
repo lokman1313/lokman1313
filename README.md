@@ -1,5 +1,6 @@
 
-<img width="450" height="300" alt="github_cover_short_height" src="https://github.com/user-attachments/assets/ff862ea6-9e2c-420b-a58b-d7180a1dea1d" />
+<img width="450" <img width="1703" height="624" alt="Gemini_Generated_Image_2zrpir2zrpir2zrp" src="https://github.com/user-attachments/assets/0f68e6de-6227-482d-a54e-20ad55fa4b12" />
+height="300" alt="github_cover_short_height" src="https://github.com/user-attachments/assets/ff862ea6-9e2c-420b-a58b-d7180a1dea1d" />
 
 ## 🛠️ Tech Stack
 
