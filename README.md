@@ -13,9 +13,9 @@
 
 ### 🚀 Full Stack Web Developer | Expert in JavaScript, React, Node.js, and Tailwind CSS | Crafting High-Performance Web Applications with MongoDB
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/lokman-hossen-dev/))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lokmanhossenjoy13@email.com)
 
 </div>
 
@@ -25,7 +25,7 @@
 
 - 🛠️ I’m currently working with **JavaScript, React, Node.js, Express, MongoDB, and Tailwind CSS.**
 - 🚀 I’m currently exploring **Next.js, TypeScript, and Advanced Backend Architectures.**
-- 📫 Reach me out: **lokmanhossen@email.com** (আপনার ইমেইল দিন)
+- 📫 Reach me out: **lokmanhossenjoy13@email.com**
 
 ### 🌟 My Absolute Favorites:
 
@@ -48,7 +48,7 @@
 const lokmanHossen = {
     pronouns: "he/him",
     code: ["JavaScript", "React", "HTML", "CSS", "Tailwind CSS"],
-    tools: ["Node.js", "Express", "MongoDB", "Firebase", "Git"],
+    tools: ["Node.js", "Express",  "Next", "Firebase", "Git"],
     architecture: ["MERN Stack", "REST APIs", "Frontend Design"],
     techCommunities: {
         mentor: "Web Developer",
