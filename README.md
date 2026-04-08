@@ -1,10 +1,6 @@
-# 👋 Hi, I'm Lokman Hossen
 
-🚀 Frontend Developer from Bangladesh  
-💻 Passionate about building modern, responsive web applications  
-🎯 Currently focusing on React & clean UI/UX design  
-
----
+-<img width="1536" height="1024" alt="ChatGPT Image Apr 8, 2026, 12_47_13 PM" src="https://github.com/user-attachments/assets/2ff5a591-eebf-4008-94dc-ea171ed8354f" />
+--
 
 ## 🛠️ Tech Stack
 
