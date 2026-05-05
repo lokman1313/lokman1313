@@ -1,8 +1,4 @@
-
-
-<img width="1280" height="422" alt="lokman_hossen_github_banner_v2 html-GoogleChrome2026-05-0420-15-19-ezgif com-repair" src="https://github.com/user-attachments/assets/0dd0dd72-3205-4735-b252-4237ea3c6869" />
-
-
+<img width="2172" height="724" alt="github repo" src="https://github.com/user-attachments/assets/1f981972-9c4f-4c34-a111-c75adb7367ab" />
 
 
 <p align="center">
