@@ -56,7 +56,7 @@
 const lokmanHossen = {
     pronouns: "he/him",
     code: ["JavaScript", "React", "HTML", "CSS", "Tailwind CSS"],
-    tools: ["Node.js", "Express",  "Next", "Firebase", "Git"],
+    tools: ["Node.js", "Express",  "Next", "MongoDB", "Git"],
     architecture: ["MERN Stack", "REST APIs", "Frontend Design"],
     techCommunities: {
         mentor: "Web Developer",
