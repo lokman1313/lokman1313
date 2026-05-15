@@ -40,7 +40,7 @@
 
 ---
 
-<h1 align="center"> 🔥 Languages & Frameworks & Tools 🔥</h1
+<h1 align="center"> 🔥 Languages , Frameworks & Tools 🔥</h1
 
 ---
 
