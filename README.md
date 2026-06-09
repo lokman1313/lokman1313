@@ -78,7 +78,7 @@ Passionate about building responsive, modern, and scalable web applications whil
 # 🚀 Featured Projects
 
 ## 💡 Idea Vault
-A modern platform to share, explore, and organize ideas.
+A modern platform to share, explore, and organize ideas with a clean and responsive user experience.
 
 🌐 Live Demo  
 https://idea-vault-vert.vercel.app/
@@ -86,33 +86,43 @@ https://idea-vault-vert.vercel.app/
 💻 GitHub Repository  
 https://github.com/lokman1313
 
-**Tech Stack:**  
-Next.js • MongoDB • Authentication • Tailwind CSS
+### 🚀 Key Features
+- Built a responsive platform for browsing and managing ideas
+- Dynamic data management with backend integration
+- Advanced filtering system for better user navigation
+- Detailed product/idea view page for better understanding
+- Fully responsive UI for desktop, tablet, and mobile devices
+- Optimized performance and smooth user experience
+
+### 🛠️ Tech Stack
+Next.js, Node.js, Express.js, MongoDB, Better Auth, Tailwind CSS
 
 ---
 
-## 🌐 Portfolio Website
-Personal portfolio showcasing projects and skills.
+## 🧱 Tiles Gallery Platform
 
-🔗 Live  
-https://lokmanhossen.vercel.app/
+A responsive tile gallery web application that allows users to browse, filter, and view detailed product information with smooth navigation and optimized performance.
 
-💻 Repository  
-(Add portfolio repo link)
+🌐 Live Demo  
+https://assignment-08-orpin.vercel.app/
 
-Tech:
-Next.js • Tailwind CSS
+💻 GitHub Repository  
+https://github.com/lokman1313/assignment-08
 
 ---
 
-## 🛠️ Project 3
-(Add your strongest project)
+### 🚀 Key Features
+- Built a responsive tile gallery platform with dynamic data management
+- Implemented filtering system for better product discovery and navigation
+- Detailed product view functionality for improved user experience
+- Integrated backend services with MongoDB for efficient data handling
+- Fully responsive design optimized for desktop, tablet, and mobile devices
+- Improved UI/UX for smooth browsing experience
 
-🔗 Live Link
+---
 
-💻 Repository Link
-
-Tech Stack
+### 🛠️ Tech Stack
+React.js • Node.js • Express.js • MongoDB
 
 ---
 
