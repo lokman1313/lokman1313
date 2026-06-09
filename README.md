@@ -39,7 +39,7 @@ Passionate about building responsive, modern, and scalable web applications whil
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td width="60%" valign="top">
 
 ## 👨‍💻 About Me
 
@@ -51,7 +51,7 @@ Passionate about building responsive, modern, and scalable web applications whil
 
     </td>
 
-    <td valign="top" width="40%">
+    <td width="40%" valign="top" align="center">
 
 <img src="https://github.com/user-attachments/assets/b275c323-d3e6-4075-bd3c-fbf96696dd51" width="300"/>
 
