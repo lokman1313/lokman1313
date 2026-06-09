@@ -53,7 +53,7 @@ Passionate about building responsive, modern, and scalable web applications whil
 
     <td width="40%" valign="top" align="center">
 
-<img src="https://github.com/user-attachments/assets/b275c323-d3e6-4075-bd3c-fbf96696dd51" width="300"/>
+<img src="https://github.com/user-attachments/assets/b275c323-d3e6-4075-bd3c-fbf96696dd51" width="350"/>
 
    
   </tr>
