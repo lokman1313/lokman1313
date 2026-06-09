@@ -1,4 +1,13 @@
 <p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/1f981972-9c4f-4c34-a111-c75adb7367ab" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Lokman+Hossen+👋;MERN+Stack+Developer;Building+Modern+and+Scalable+Web+Applications" />
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Lokman+Hossen+👋;MERN+Stack+Developer;Building+Modern+and+Scalable+Web+Applications" alt="Typing Animation"/>
 </p>
 
