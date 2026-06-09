@@ -37,7 +37,9 @@ Passionate about building responsive, modern, and scalable web applications whil
 
 ---
 
-<img align="right" width="320" src="https://github.com/user-attachments/assets/b275c323-d3e6-4075-bd3c-fbf96696dd51"/>
+<p align="right">
+  <img width="320" src="https://github.com/user-attachments/assets/b275c323-d3e6-4075-bd3c-fbf96696dd51"/>
+</p>
 
 ## 👨‍💻 About Me
 
@@ -46,8 +48,6 @@ Passionate about building responsive, modern, and scalable web applications whil
 - ⚡ Focused on **clean UI, performance, and maintainable code**
 - 💡 Interested in solving real-world problems through web development
 - 📫 Reach me: **lokmanhossenjoy13@gmail.com**
-
-<br clear="right"/>
 
 ---
 
@@ -126,32 +126,19 @@ React.js • Node.js • Express.js • MongoDB
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=lokman1313&show_icons=true&hide_border=true"
-/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=lokman1313&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=lokman1313"
-/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lokman1313&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokman1313&layout=compact"
-/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokman1313&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 # ⌨️ Developer Snapshot
