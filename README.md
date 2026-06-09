@@ -1,153 +1,153 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Lokman+Hossen;MERN+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Lokman+Hossen+👋;MERN+Stack+Developer;Building+Modern+and+Scalable+Web+Applications" alt="Typing Animation"/>
 </p>
 
 <h1 align="center">🚀 Lokman Hossen</h1>
 
 <h3 align="center">
-MERN Stack Developer | React.js • Next.js • Node.js • MongoDB
+MERN Stack Developer | React • Next.js • Node.js • MongoDB
 </h3>
 
 <p align="center">
-Passionate about building responsive, scalable, and user-friendly web applications using modern JavaScript technologies.
+Passionate about building responsive, modern, and scalable web applications while continuously learning and improving development skills.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lokman-hossen-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="https://github.com/lokman1313">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/lokman-hossen-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="mailto:lokmanhossenjoy13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://github.com/lokman1313">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="https://lokmanhossen.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+<a href="mailto:lokmanhossenjoy13@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://lokmanhossen.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+</a>
 </p>
 
 ---
 
+<img align="right" width="320" src="https://github.com/user-attachments/assets/b275c323-d3e6-4075-bd3c-fbf96696dd51"/>
+
 ## 👨‍💻 About Me
 
-- 🔭 Currently building modern full-stack web applications
-- 🌱 Learning **Next.js, TypeScript, Backend Architecture, and Performance Optimization**
-- 💡 Interested in scalable systems and clean UI/UX
-- 🚀 Passionate about solving real-world problems through technology
-- 📫 Reach me at: **lokmanhossenjoy13@gmail.com**
+- 🔭 Currently building full-stack web applications
+- 🌱 Learning **Next.js, TypeScript & scalable backend architecture**
+- ⚡ Focused on **clean UI, performance, and maintainable code**
+- 💡 Interested in solving real-world problems through web development
+- 📫 Reach me: **lokmanhossenjoy13@gmail.com**
+
+<br clear="right"/>
 
 ---
 
-## 🎯 Current Focus
-
-- Building production-ready MERN Stack applications
-- Improving backend development skills
-- Learning TypeScript and advanced Next.js concepts
-- Writing cleaner and maintainable code
-- Preparing for professional software engineering opportunities
-
----
-
-## 🛠️ Languages, Frameworks & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,nodejs,express,mongodb,git,github,postman,vscode,npm,firebase" />
-
-</div>
-
----
-
-## 💻 Tech Stack
+# 🔥 Tech Stack
 
 ### Frontend
-- React.js
-- Next.js
-- JavaScript (ES6+)
-- Tailwind CSS
-- HTML5
-- CSS3
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Database
-- MongoDB
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
 ### Tools
-- Git
-- GitHub
-- Postman
-- VS Code
-- Firebase
-- Vercel
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 💡 Idea Vault
+## 💡 Idea Vault
+A modern platform to share, explore, and organize ideas.
 
-A modern platform where users can share, discover, and organize innovative ideas.
+🌐 Live Demo  
+https://idea-vault-vert.vercel.app/
 
-🔗 Live Demo: https://idea-vault-vert.vercel.app/
+💻 GitHub Repository  
+https://github.com/lokman1313
 
-🛠️ Tech Stack:
+**Tech Stack:**  
 Next.js • MongoDB • Authentication • Tailwind CSS
 
 ---
 
-### 🌐 Portfolio Website
+## 🌐 Portfolio Website
+Personal portfolio showcasing projects and skills.
 
-Personal portfolio showcasing my projects, skills, and development journey.
-
-🔗 Live Demo:
+🔗 Live  
 https://lokmanhossen.vercel.app/
 
-🛠️ Tech Stack:
-Next.js • Tailwind CSS • Framer Motion
+💻 Repository  
+(Add portfolio repo link)
+
+Tech:
+Next.js • Tailwind CSS
 
 ---
 
-### 📂 More Projects
+## 🛠️ Project 3
+(Add your strongest project)
 
-👉 Explore all repositories:
-https://github.com/lokman1313?tab=repositories
+🔗 Live Link
 
----
+💻 Repository Link
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lokman1313&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokman1313&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokman1313&theme=tokyonight" />
-</p>
+Tech Stack
 
 ---
 
-## ⌨️ Developer Snapshot
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=lokman1313&show_icons=true&hide_border=true"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=lokman1313"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokman1313&layout=compact"
+/>
+
+</p>
+
+---
+
+# ⌨️ Developer Snapshot
 
 ```javascript
-const lokmanHossen = {
+const lokman = {
   role: "MERN Stack Developer",
 
   frontend: [
-    "React.js",
+    "React",
     "Next.js",
-    "JavaScript",
     "Tailwind CSS"
   ],
 
@@ -163,31 +163,29 @@ const lokmanHossen = {
   tools: [
     "Git",
     "GitHub",
-    "Postman",
-    "VS Code"
+    "Postman"
   ],
 
   currentlyLearning: [
     "TypeScript",
-    "Advanced Next.js",
     "Backend Architecture"
   ],
 
-  goal: "Build impactful and scalable web applications"
+  goal: "Build impactful products and grow as a software developer"
 };
 ```
 
 ---
 
-## 🤝 Connect With Me
+# 🎯 Current Focus
 
-- 🌐 Portfolio: https://lokmanhossen.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/lokman-hossen-dev/
-- 💻 GitHub: https://github.com/lokman1313
-- 📧 Email: lokmanhossenjoy13@gmail.com
+- Building production-ready projects
+- Improving backend fundamentals
+- Writing clean and maintainable code
+- Preparing for professional opportunities
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-</p>
+<h3 align="center">
+Thanks for visiting my profile ❤️
+</h3>
