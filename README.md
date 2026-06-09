@@ -37,17 +37,27 @@ Passionate about building responsive, modern, and scalable web applications whil
 
 ---
 
-<img align="right" width="320" src="https://github.com/user-attachments/assets/b275c323-d3e6-4075-bd3c-fbf96696dd51"/>
-
-<br clear="both"/>
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building full-stack web applications
-- 🌱 Learning **Next.js, TypeScript & scalable backend architecture**
-- ⚡ Focused on **clean UI, performance, and maintainable code**
-- 💡 Interested in solving real-world problems through web development
+- 🔭 Currently building full-stack web applications  
+- 🌱 Learning **Next.js, TypeScript & scalable backend architecture**  
+- ⚡ Focused on **clean UI, performance, and maintainable code**  
+- 💡 Interested in solving real-world problems through web development  
 - 📫 Reach me: **lokmanhossenjoy13@gmail.com**
+
+    </td>
+
+    <td valign="top" width="40%">
+
+<img src="https://github.com/user-attachments/assets/b275c323-d3e6-4075-bd3c-fbf96696dd51" width="300"/>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
