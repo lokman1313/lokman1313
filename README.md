@@ -140,7 +140,6 @@ React.js • Node.js • Express.js • MongoDB
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lokman1313&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=lokman1313&theme=tokyonight&hide_border=true"/>
 
