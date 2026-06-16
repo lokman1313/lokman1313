@@ -183,6 +183,7 @@ const lokman = {
   currentlyLearning: [
     "TypeScript",
     "Backend Architecture"
+    "Payment Getway"
   ],
 
   goal: "Build impactful products and grow as a software developer"
