@@ -94,7 +94,7 @@ A modern platform to share, explore, and organize ideas with a clean and respons
 https://idea-vault-vert.vercel.app/
 
 💻 GitHub Repository  
-https://github.com/lokman1313
+[https://github.com/lokman1313](https://github.com/lokman1313/Idea-Vault)
 
 ### 🚀 Key Features
 - Built a responsive platform for browsing and managing ideas
