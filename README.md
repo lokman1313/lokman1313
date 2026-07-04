@@ -109,30 +109,29 @@ Next.js, Node.js, Express.js, MongoDB, Better Auth, Tailwind CSS
 
 ---
 
-## 🧱 Tiles Gallery Platform
+## 🧱 Knowledge Hub – Online Book Delivery Management Platform
 
 A responsive tile gallery web application that allows users to browse, filter, and view detailed product information with smooth navigation and optimized performance.
 
 🌐 Live Demo  
-https://assignment-08-orpin.vercel.app/
+https://knowledge-hub-navy.vercel.app/
 
 💻 GitHub Repository  
-https://github.com/lokman1313/assignment-08
-
+ https://github.com/lokman1313/Knowledge-Hub
 ---
 
 ### 🚀 Key Features
-- Built a responsive tile gallery platform with dynamic data management
-- Implemented filtering system for better product discovery and navigation
-- Detailed product view functionality for improved user experience
-- Integrated backend services with MongoDB for efficient data handling
-- Fully responsive design optimized for desktop, tablet, and mobile devices
-- Improved UI/UX for smooth browsing experience
+- Developed a full-stack online book delivery platform with Reader, Librarian, and Admin dashboards, enabling secure book management, approvals, and delivery tracking.
+- Implemented robust multi-factor authentication using Better Auth, Google OAuth, and custom JWT-protected routes via secure cookie-based authentication.
+- Integrated Stripe Checkout API to process secure delivery fee transactions, automatically triggering background delivery requests upon successful payment webhooks.
+- Built an interactive analytics dashboard featuring dynamic charts using Recharts to track user registrations, librarian earnings, and real-time platform revenue.
+- Developed a highly responsive UI with Next.js 15, HeroUI, and Tailwind CSS, utilizing Framer Motion for animations and Skeleton screens to optimize perceived loading
+speeds.
 
 ---
 
 ### 🛠️ Tech Stack
-React.js • Node.js • Express.js • MongoDB
+Next.js 15, Node.js, Express.js, MongoDB, Better Auth, Stripe API, Recharts, Tailwind CSS
 
 ---
 
