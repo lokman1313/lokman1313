@@ -177,6 +177,8 @@ const lokman = {
     "Git",
     "GitHub",
     "Postman"
+    "stripe"
+    "better-auth"
   ],
 
   currentlyLearning: [
