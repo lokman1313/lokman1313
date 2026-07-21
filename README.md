@@ -131,7 +131,7 @@ speeds.
 ---
 
 ### 🛠️ Tech Stack
-Next.js 15, Node.js, Express.js, MongoDB, Better Auth, Stripe API, Recharts, Tailwind CSS
+Next.js 15, Node.js, Express.js, MongoDB, Better Auth,Payment Getway, Recharts, Tailwind CSS
 
 ---
 
@@ -184,7 +184,6 @@ const lokman = {
   currentlyLearning: [
     "TypeScript",
     "Backend Architecture"
-    "Payment Getway"
   ],
 
   goal: "Build impactful products and grow as a software developer"
